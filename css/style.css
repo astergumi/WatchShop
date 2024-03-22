@@ -1,0 +1,343 @@
+a{
+    text-decoration: none;
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation {
+	margin-top: 20px;
+	margin-left: 30%;
+	z-index: 1;
+			position: absolute;
+}
+
+.navigation a{
+
+	font-family: 'Poppins', sans-serif;
+	color: #31302c;
+	    font-size: 20px;
+	    margin: 0 60px;
+	z-index: 1;
+}
+
+.navlogo{
+float: left;
+margin-top: 20px;
+margin-left: 10%;
+}
+.navlogo img{
+padding: 10px;
+	width: 7%;
+}
+.shop {
+margin-top: 15px;
+margin-left: 80%;
+	position: absolute;
+}
+
+.shop img{
+	width: 7%;
+		padding: 10px;
+
+}
+
+.titleone{
+	margin-top: 30%;
+	margin-left: 10%;
+	font-size: 30px;
+	position: absolute;
+}
+
+.price{
+
+	color: #31302c;
+	margin-top: 14%;
+	margin-left: 40%;
+	font-size: 25px;
+	position: absolute;
+}
+
+.dm{
+		color: #31302c;
+	margin-top: 50%;
+	margin-left: 80%;
+	font-size: 25px;
+	position: absolute;
+}
+
+.second{
+	margin-top: 34%;
+	margin-left: 17%;
+	font-size: 30px;
+	position: absolute;
+}
+
+.textheader{
+	margin-top: 40%;
+	margin-left: 17%;
+	font-size: 25px;
+	position: absolute;
+
+}
+
+.ktlgbtnone{
+	right: 18%;
+	top: 140%;
+	color: white;
+   position: absolute;
+   font-family: 'Poppins', sans-serif;
+	border: 1px solid white; 
+	  background: #31302c;
+	width: 350px;
+	font-size: 20px;
+ padding: 25px;
+
+}
+
+.krug{
+	z-index: -1;
+		margin-top: 6%;
+	margin-left: 45%;
+	position: absolute;
+}
+
+.krug img{
+	width: 93%;
+}
+
+.watchmain{
+	z-index: 1;
+		margin-top: 5%;
+	margin-left: 55%;
+	position: absolute;
+}
+
+.watchmain img{
+width: 120%;
+
+}
+
+
+.titletwo{
+	margin-top: 60%;
+	margin-left: 35%;
+	font-size: 30px;
+	position: absolute;
+}
+
+.main_container{
+    display: flex;
+ justify-content: center;
+ margin-top: 70%;
+ margin-left: 20%;
+ position: absolute;
+}
+
+
+.check a{
+	color: #31302c;
+		white-space: nowrap;
+	margin-left: 100%;
+	 position: absolute;
+    font-size: 20px;
+}
+
+
+.containers{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+	font-size: 17px;
+}
+.container_items{
+    width: 30%;
+	padding: 10px 20px 20px 20px;
+	text-align: center;
+}
+
+.titlethree{
+	margin-top: 120%;
+	margin-left: 60%;
+	font-size: 30px;
+	position: absolute;
+}
+
+.textbanner{
+	margin-top: 127%;
+	margin-left: 60%;
+	font-size: 25px;
+	position: absolute;
+}
+
+
+.ktlgbtntwo{
+	right: 32%;
+	top: 140%;
+	color: white;
+   position: absolute;
+   font-family: 'Poppins', sans-serif;
+	border: 1px solid white; 
+	  background: #d4b098;
+	width: 350px;
+	font-size: 20px;
+ padding: 25px;
+
+}
+.bannerone{
+		margin-top: 110%;
+	margin-left: 12%;
+	position: absolute;
+}
+
+.bannerone img{
+	width: 150%;
+}
+
+
+.titlefour{
+	margin-top: 153%;
+	margin-left: 5%;
+	font-size: 28px;
+	position: absolute;
+}
+
+.textsocial{
+	margin-top: 160%;
+	margin-left: 5%;
+	font-size: 27px;
+	position: absolute;
+}
+
+.socialimg{
+	margin-left: 5%;
+margin-top: 175%;
+	position: absolute;
+	padding-bottom: 10px;
+}
+
+.socialimg a{
+
+	padding-left: 5px;
+	padding-right: 5px;
+	
+}
+
+.socialimg img{
+	padding-top: 15px;
+	width: 2%;
+
+}
+
+.socialimg :hover{
+	background: 63594B;
+	border-radius: 5%;
+	opacity: 0.9;
+}
+
+
+.watchesimages{
+	 margin-top: 150%;
+ margin-left: 51%;
+ position: absolute;
+    display: flex;
+ justify-content: center;
+}
+
+.container{
+    display: flex;
+flex-flow: column-reverse;
+    flex-wrap: wrap;
+}
+
+.container_watches img{
+    width: 129%;
+}
+
+
+.bigimg{
+   margin-top: 2855px;
+	margin-left: 68%;
+	position: absolute;
+}
+
+.bigimg img{
+	width: 127%;
+}
+
+footer{
+	 margin-top: 190%;
+	 width: 100%;
+	position: absolute;
+	background: #31302c;
+}
+
+.podval{
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 12%;
+}
+
+.podval a{
+	z-index: 1;
+	font-size: 15px;
+	padding-left: 6%;
+	padding-right: 6%;
+	color: white;
+	font-family: 'Poppins', bold;
+}
+
+.links{
+
+		position: absolute;
+	  display: flex;
+flex-direction: column;
+padding-top: 1%;
+	padding-left:17%;
+}
+
+.links a{
+	color: white;
+	text-align: left;
+	
+}
+
+.navfooter .company{
+
+		position: absolute;
+	  display: flex;
+flex-direction: column;
+padding-top: 1%;
+	padding-left:36%;
+		white-space: nowrap;
+}
+
+.navfooter .shoppers{
+
+		position: absolute;
+	  display: flex;
+flex-direction: column;
+padding-top: 1%;
+	padding-left:53.5%;
+	white-space: nowrap
+}
+
+.navfooter .delivery{
+
+		position: absolute;
+	  display: flex;
+flex-direction: column;
+padding-top: 1%;
+	padding-left:71.5%;
+	white-space: nowrap;
+}
+
+.navfooter a{
+	padding: 3%;
+	color: white;
+	text-align: left;
+			font-family: 'Poppins', sans-serif;
+	
+}
