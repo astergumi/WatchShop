@@ -1,1 +1,1 @@
-https://yaosipovpavel.github.io/WatchShop/
+https://astergumi.github.io/WatchShop/
